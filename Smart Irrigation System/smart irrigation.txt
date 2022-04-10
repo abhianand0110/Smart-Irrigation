@@ -1,0 +1,14 @@
+How does smart irrigation work?
+As we are using a soil moisture sensor that,
+
+senses the moisture content in the soil.
+send this data to the Arduino that we are using.
+Soil moisture sensors can send data in both. in analog as well as in digital.
+so we are using the analog data here to get the accuracy in the project.
+we insert the soil moisture sensor in the soil and connect it to the Arduino and the sensor sends the data to the Arduino about the moisture inside the soil.
+it makes the smart irrigation controller. the Arduino will get the action on the data.
+
+according to the condition given in the program. if the soil moisture sensor detects no moisture or very little moisture then the pump will get started and water the plants.
+
+I would like to mention too that this is an advanced version of the smart irrigation system which recognizes the less moisture-contained soil in various fields.
+
